@@ -1,4 +1,4 @@
-package htw.webtech.projektname;
+package htw.webtech.pickmymovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
