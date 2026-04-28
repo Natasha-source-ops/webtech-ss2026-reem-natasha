@@ -1,4 +1,4 @@
-# 🎬 PickMyMovie
+# 🎬 PickMyMovie- Backend
 
 PickMyMovie ist eine Spring Boot Applikation, die als Grundlage für eine Web-Anwendung dient. 
 Ziel der Anwendung ist es, Filme basierend auf Nutzerpräferenzen wie Genre und Streaming-Plattformen zu empfehlen 
@@ -35,5 +35,5 @@ Das Backend basiert auf folgenden Technologien:
 - 
 # Entwickler
 
-- Natasha Valentine
+- Natasha Valentine- Schmelzer
 - Reem Abdelmagid
